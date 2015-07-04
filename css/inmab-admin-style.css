@@ -1,0 +1,32 @@
+/*
+Admin styles for WP Table Juice plugin
+Author: Michael Davis
+Author URI: http://imnotmarvin.com
+*/
+.float-right {
+	float: right;
+}
+.float-left {
+	float: left;
+}
+#adminmenu #toplevel_page_wp_table_juice .wp-menu-image img {
+	padding: 4px 0 0;
+}
+.inm-logo {
+	text-align: center;
+}
+textarea, input, img {
+	max-width: 100%;
+}
+.inmab-logo {
+	margin-bottom: 10px;
+}
+.form-table th {
+	padding: 0px 10px 10px 0;
+}	
+.form-table td {
+	padding: 0 5px 5px;
+}
+.inmab-ref {
+	text-align: center;
+}	
